@@ -1,0 +1,16 @@
+body
+{
+  background-size:cover;
+}
+
+h3
+{
+    text-align: left;
+     background-color:orange ;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
